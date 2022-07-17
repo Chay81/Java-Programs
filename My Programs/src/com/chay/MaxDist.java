@@ -1,13 +1,13 @@
 package com.chay;
 
 public class MaxDist {
-
+	
 	// Java Program to implement
 	// the above approach
 	
 	// Function to find the minimum
 		// distance between the minimum
-		// and the maximum element
+		// and the maximum element}
 		public static int minDistance(int a[], int n)
 		{
 
@@ -50,7 +50,7 @@ public class MaxDist {
 
 				// If both the minimum and the
 				// maximum element has
-				// occurred at least once
+				//	 occurred at least once
 				if (min_index != -1
 					&& max_index != -1)
 					min_dist
